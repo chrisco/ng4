@@ -81,3 +81,16 @@ Edit the `.angular-cli.json` file to include Bootstrap:
 ## Using Custom Components
 
 [Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655732?start=0)
+
+## Creating Components with the CLI & Nesting Components
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655742?start=0)
+
+Example: Generate `servers` component:
+```
+$ ng generate component servers
+```
+Same command using shorthand syntax:
+```
+$ ng g c servers
+```
