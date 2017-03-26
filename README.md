@@ -65,3 +65,19 @@ Edit the `.angular-cli.json` file to include Bootstrap:
 ```
 "../node_modules/bootstrap/dist/css/bootstrap.min.css",
 ```
+
+## How an Angular App Gets Loaded and Started
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655700?start=0)
+
+## Creating a New Component
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655710?start=0)
+
+## Understanding the Role of AppModule and Component Declaration
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655726?start=0)
+
+## Using Custom Components
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655732?start=0)
