@@ -94,3 +94,7 @@ Same command using shorthand syntax:
 ```
 $ ng g c servers
 ```
+
+## Formatting With *Prettier*
+
+While I've used Sublime and experimented with WebStorm and VS Code, I'm currently using Atom. To format code, I'm currently using the [prettier-atom package](https://atom.io/packages/prettier-atom).
