@@ -1,6 +1,6 @@
 # ng4 - Small Angular 4 Projects for Learning and Fun
 
-## First App
+## First App (`app1`)
 
 __Download Node.js, if necessary__
 
@@ -104,3 +104,43 @@ While I've used Sublime and experimented with WebStorm and VS Code, I'm currentl
 You can select by element (e.g., `<app-servers></app-servers>`), attribute (e.g. `<div app-servers></div>`), or class (e.g., `<div class="app-servers"></div>`). You __can't__ select by id. Typically use elements with/for components.
 
 [Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655772?start=0)
+
+## Practice Making Components (`ass1`)
+
+* Generated one with `$ ng g c SuccessAlert` and one by hand.
+* Used `templateUrl` and `StyleUrls` with one and  `template` and `styles` (i.e., 'inline') with the other.
+* Used applicable Bootstrap `alert` classes. See this [video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/266/instructor-solution) for style-by-hand example.
+
+## Data Binding
+
+__Videos__
+
+1. [String Interpolation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655804?start=0)
+2. [Property Binding](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655806?start=0)
+3. [Event Binding](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655820?start=0)
+
+[Property Binding vs String Interpolation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655814?start=0)
+
+__Which Properties and Events can you bind to?__
+
+Pretty much all of them. Use `console.log(foo)` to see something properties and events.
+
+Example: Binging a method to a click event:
+``` html
+<button class="btn btn-primary" (click)="doSomething()">Do Something</button>
+```
+
+## Passing and Using Data with Event Binding
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655832?start=0)
+
+## Two-Way-Databinding
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655868?start=0)
+
+For Two-Way-Binding to work, you need to enable the `ngModel`  directive. This is done by adding the `FormsModule`  to the `imports[]`  array in the `AppModule`. You then also need to add the import from `@angular/forms`  in the `app.module.ts` file:
+```
+import { FormsModule } from '@angular/forms';
+```
+
+## Combining all Forms of Databinding
