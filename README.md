@@ -143,3 +143,45 @@ For Two-Way-Binding to work, you need to enable the `ngModel`  directive. This i
 ``` javascript
 import { FormsModule } from '@angular/forms';
 ```
+
+## Directives
+
+Directives are instructions in the DOM (Components are a type of Directive with a template). Typically add directives with an Attribute selector (but can add with the other ways as well, if want/necessary).
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655898?start=0)
+
+__ngIf Example__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655904?start=0)
+
+``` javascript
+<p *ngIf="serverCreated">Server was created, server name is {{ serverName }}</p>
+```
+The `*` is required because ngIf is a __Structural Directive__, which means it changes the structure of the DOM (in this case, it either adds the Element or it doesn't).
+
+__ngIf else Example__
+
+[Vide](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655984?start=0)
+
+``` html
+<p *ngIf="serverCreated; else noServer">Server was created, server name is {{ serverName }}</p>
+<ng-template #noServer>
+  <p>Server has not been created yet</p>
+</ng-template>
+```
+
+The `noServer` is called a 'Local Reference.'
+
+__ngStyle__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655914?start=0)
+
+`ngStyle` is and __Attribute Directive__. Unlike Structural Directives, Attribute Directives don't *add* or *remove* elements. Instead, they *change* the element they are placed on.
+
+__ngClass__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655924?start=0)
+
+__ngFor__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655930?start=0)
