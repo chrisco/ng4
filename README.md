@@ -62,7 +62,7 @@ $ npm i -S bootstrap
 ```
 
 Edit the `.angular-cli.json` file to include Bootstrap:
-```
+``` javascript
 "../node_modules/bootstrap/dist/css/bootstrap.min.css",
 ```
 
@@ -115,9 +115,10 @@ You can select by element (e.g., `<app-servers></app-servers>`), attribute (e.g.
 
 __Videos__
 
-1. [String Interpolation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655804?start=0)
-2. [Property Binding](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655806?start=0)
-3. [Event Binding](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655820?start=0)
+1. [String Interpolation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655804?start=0) uses `{{ someString }}`
+2. [Property Binding](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655806?start=0) uses `[someProperty]`
+3. [Event Binding](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655820?start=0) uses `(someEvent)`
+4. Combine 'Property' and 'Event' binding with `[(ngModel)]="someProperty"`
 
 [Property Binding vs String Interpolation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655814?start=0)
 
@@ -134,13 +135,11 @@ Example: Binging a method to a click event:
 
 [Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655832?start=0)
 
-## Two-Way-Databinding
+## Two-Way Data Binding
 
 [Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655868?start=0)
 
 For Two-Way-Binding to work, you need to enable the `ngModel`  directive. This is done by adding the `FormsModule`  to the `imports[]`  array in the `AppModule`. You then also need to add the import from `@angular/forms`  in the `app.module.ts` file:
-```
+``` javascript
 import { FormsModule } from '@angular/forms';
 ```
-
-## Combining all Forms of Databinding
