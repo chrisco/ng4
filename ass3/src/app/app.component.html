@@ -11,14 +11,15 @@
         <li>Starting at the 5th log item, give all future log items a blue background (via ngStyle) and white color (ngClass)</li>
       </ol>
       <hr>
-      <div class="form-group">
-        <form class="form-group" (submit)="checkPassword($event)" method="post">
-          <label for="password">Display Details:</label>
-          <input type="password" class="form-control" id="password" placeholder="Password">
-          <p class="help-block">Secret Password = tuna</p>
-          <button class="btn btn-success" type="submit" name="password">Display Details</button>
-        </form>
-        <p *ngIf></p>
-      </div>
+      <button class="btn btn-success" (click)="onToggleDetails()">Toggle Details</button>
+      <p *ngIf="displayDetails; else nope;" class="help-block">Here are the details</p>
+      <ng-template #nope>
+        <p class="help-block">Click the button</p>
+      </ng-template>
+      <p *ngFor="let item of items"
+        [ngStyle]="{background: item.len >= 4 ? 'blue' : 'transparent'}"
+        [ngClass]="{'white-text': item.len >=4}"
+        >{{ item.len + 1 }}. {{ item.stamp }}
+      </p>
     </div>
   </div>

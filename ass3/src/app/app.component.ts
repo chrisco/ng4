@@ -6,9 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  pwd = 'tuna';
+  displayDetails = false;
+  items = [];
 
-  checkPassword(e) {
-    console.log(e.target);
+  onToggleDetails() {
+    this.displayDetails = !this.displayDetails;
+    this.items.push({
+      len: this.items.length,
+      stamp: new Date().getTime()
+    });
   }
 }
