@@ -1,6 +1,8 @@
 <div class="container">
   <div class="row">
-    <div class="col-xs-12">
+    <div class="col-xs-6 col-xs-offset-3">
+      <h1 class="text-center">Assignment 3: Directives</h1>
+      <hr>
       <ol>
         <li>Add A button which says 'Display Details'</li>
         <li>Add a paragraph with any content of your choice (e.g. 'Secret Password = tuna')</li>
@@ -8,6 +10,15 @@
         <li>Log all button clicks in an array and output that array below the secret paragraph (maybe log a timestamp or simply an incrementing number)</li>
         <li>Starting at the 5th log item, give all future log items a blue background (via ngStyle) and white color (ngClass)</li>
       </ol>
+      <hr>
+      <div class="form-group">
+        <form class="form-group" (submit)="checkPassword($event)" method="post">
+          <label for="password">Display Details:</label>
+          <input type="password" class="form-control" id="password" placeholder="Password">
+          <p class="help-block">Secret Password = tuna</p>
+          <button class="btn btn-success" type="submit" name="password">Display Details</button>
+        </form>
+        <p *ngIf></p>
+      </div>
     </div>
   </div>
-</div>
