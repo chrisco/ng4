@@ -185,3 +185,21 @@ __ngClass__
 __ngFor__
 
 [Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655930?start=0)
+
+## Course Project (`proj1`)
+
+A recipe book / shopping list app.
+
+__Intro Videos__
+
+1. [Intro](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656000?start=0)
+2. [Planning](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656004?start=0)
+3. [Setup](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656008?start=0)
+
+__Project Setup__
+
+```
+$ ng new proj1
+$ cd proj1
+$ ng serve
+```
