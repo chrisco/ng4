@@ -188,7 +188,7 @@ __ngFor__
 
 ## Course Project (`proj1`)
 
-A recipe book / shopping list app.
+A recipe book / shopping list app. See [video clip](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6655594?start=14s).
 
 __Intro Videos__
 
@@ -201,5 +201,17 @@ __Project Setup__
 ```
 $ ng new proj1
 $ cd proj1
+$ ng serve
+```
+
+__Install Bootstrap__
+
+```
+$ npm i -S bootstrap
+```
+
+Edit `.angular-cli.json` to add `"../node_modules/bootstrap/dist/css/bootstrap.min.css",` line to `styles` array. Edit `app.component.html` to 'Hello World' Bootstrap.
+
+```
 $ ng serve
 ```
