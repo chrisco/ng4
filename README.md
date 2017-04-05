@@ -215,3 +215,9 @@ Edit `.angular-cli.json` to add `"../node_modules/bootstrap/dist/css/bootstrap.m
 ```
 $ ng serve
 ```
+
+__Create Components__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656014?start=60)
+
+1. Create `header` component manually (for practice).
