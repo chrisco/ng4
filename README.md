@@ -221,3 +221,12 @@ __Create Components__
 [Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656014?start=60)
 
 1. Create `header` component manually (for practice).
+2. Create all other components with the CLI:
+
+```
+$ ng g c recipes --spec false
+$ ng g c recipes/recipe-list --spec false
+$ ng g c recipes/recipe-item --spec false
+$ ng g c shopping-list --spec false
+$ ng g c shopping-list/shopping-edit --spec false
+```
