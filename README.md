@@ -231,3 +231,20 @@ $ ng g c recipes/recipe-detail --spec false
 $ ng g c shopping-list --spec false
 $ ng g c shopping-list/shopping-edit --spec false
 ```
+
+__Place Components__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656016?start=0)
+
+__Unix Command to Find and Remove Files__
+
+I used this to remove files ending in .orig after using resolving merge conflict:
+```
+$ find . -type f -name '*.orig' -delete
+```
+1. [Source](http://unix.stackexchange.com/a/116390/224872) (StackExchange *Recursively delete all files with a given extension*)
+2. [More about the `find` command]( https://www.cyberciti.biz/faq/howto-find-a-file-under-unix/) (CyberCiti.biz FAQ)
+
+__Configure Navbar__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656020?start=0)
