@@ -1,15 +1,26 @@
-<!-- Fixed navbar -->
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container">
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">proj1</a>
+      <a href="#" class="navbar-brand">Recipe Book</a>
     </div>
-    <div id="navbar" class="navbar-collapse collapse">
+    <div class="navbar-default">
+      <ul class="nav navbar-nav">
+        <li>
+          <a href="#">Recipes</a>
+        </li>
+        <li>
+          <a href="#">Shopping List</a>
+        </li>
+      </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="../recipes/">Recipes</a></li>
-        <li><a href="../shopping-list/">Shopping List</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" role="button" href="#">Manage <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Save Data</a></li>
+            <li><a href="#">Fetch Data</a></li>
+          </ul>
+        </li>
       </ul>
     </div>
-    <!--/.nav-collapse -->
   </div>
 </nav>
