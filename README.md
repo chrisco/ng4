@@ -248,3 +248,8 @@ $ find . -type f -name '*.orig' -delete
 __Configure Navbar__
 
 [Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656020?start=0)
+
+__Create Recipe Model__
+
+* [Video 1](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656026?start=0)
+* [Video 2](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656030?start=0)
