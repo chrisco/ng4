@@ -256,3 +256,7 @@ __Create Recipe Model__
 __Design Recipe Item__
 
 [Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656030?start=0)
+
+__Output List of Recipes With ngFor__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656034?start=0)

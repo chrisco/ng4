@@ -3,15 +3,17 @@
     <button class="btn btn-success">Add Recipe</button>
   </div>
 </div>
+<hr>
 <div class="row">
   <div class="col-xs-12">
-    <a href="" class="list-group-item clearfix">
+    <a
+      href=""
+      class="list-group-item clearfix"
+      *ngFor="let recipe of recipes">
       <div class="pull-left">
-        <h4 class="list-group-item-heading">Chicken Kathi Roll</h4>
-        <span class="pull-right">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chicken-kathi-roll-recipe.jpg/640px-Chicken-kathi-roll-recipe.jpg" class="img-responsive img-rounded" alt="" style="max-height: 100px; margin-left: 5px;  " >
-        </span>
-        <p class="list-group-item-text">Boneless chicken pieces sautéed with ginger garlic, cumin, onion and chillies - stuffed into a refined flour roti slathered with fresh green chutney and sprinkled with chaat masala and more onions.</p>
+        <h4 class="list-group-item-heading">{{ recipe.name }}</h4>
+        <img src="{{ recipe.imagePath }}" class="img-responsive pull-right" alt="{{ recipe.name }}" style="max-height: 150px; padding-left: 10px;">
+        <p class="list-group-item-text">{{ recipe.description }}</p>
       </div>
     </a>
     <app-recipe-item></app-recipe-item>
