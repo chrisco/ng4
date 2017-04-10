@@ -264,3 +264,15 @@ __Output List of Recipes With ngFor__
 __Design RecipeDetail__
 
 [Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656036?start=0)
+
+__Design ShoppingListComponent__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656038?start=0)
+
+__Create Ingredient Model__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656040?start=0)
+
+__Creating and Outputting the Shopping List__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656042?start=0)
