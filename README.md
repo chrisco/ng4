@@ -276,3 +276,26 @@ __Create Ingredient Model__
 __Creating and Outputting the Shopping List__
 
 [Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656042?start=0)
+
+__Design ShoppingEditComponent__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656046?start=0)
+
+__Next Steps__
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656048?start=0)
+
+__Debugging Videos__
+
+1. [Angular Error Messages](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656252?start=0)
+2. [Debugging Code in the Browser Using Sourcemaps](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656260?start=0)
+3. [Using Augury to Dive into Angular Apps](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656262?start=0)
+
+__Components & Databinding Deep Dive__
+
+Many videos, not all of which are listed below:
+
+* [Intro](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656058?start=0)
+* [Splitting Apps into Components](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656060?start=0)
+* [Property & Event Binding Overview](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656062?start=0)
+* [Binding to Custom Properties](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656066?start=0)
