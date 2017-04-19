@@ -305,10 +305,13 @@ __Components & Databinding Deep Dive__
 * [More on View Encapsulation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656086?start=0)
 * [Using Local References in Templates](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656092?start=0) (good video to rewatch)
 * [Getting Access to the Template & DOM with @ViewChild](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656094?start=0) (good video to rewatch)
-* [Projecting Content into Components with ng-content](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656100?start=0)
-* [Understanding the Component Lifecycle](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656102?start=0) (good video to rewatch)
+* [Projecting Content into Components with ng-content](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656100?start=0) (good video to rewatch)
+* [Understanding the Component Lifecycle, such as ngOnInit](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656102?start=0) (good video to rewatch)
 * [Seeing Lifecycle Hooks in Action](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656106?start=0) (good video to rewatch)
 * [Lifecycle Hooks and Template Access](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656110?start=0) (good video to rewatch)
 * [Getting Access to ng-content with @ContentChild](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656114?start=0) (good video to rewatch)
 * [Wrap Up](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656116?start=0)
-* [Assignment: Practicing Property & Event Binding and View Encapsulation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/272/introduction)
+
+## Practicing Property & Event Binding and View Encapsulation (`ass4-cmps-dbnd`)
+
+[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/272/introduction)
