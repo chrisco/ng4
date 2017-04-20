@@ -320,4 +320,8 @@ Great practice. See [video](https://www.udemy.com/the-complete-guide-to-angular-
 
 __Videos__
 
-[Adding Navigation with Event Binding and ngIf](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656142?start=0)
+* [Adding Navigation with Event Binding and ngIf](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656142?start=0)
+* [Passing Recipe Data with Property Binding](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656142?start=0)
+* [Passing Data with Event and Property Binding (Combined)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656144?start=0)
+* []()
+* []()
