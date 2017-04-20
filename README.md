@@ -315,3 +315,9 @@ __Components & Databinding Deep Dive__
 ## Practicing Property & Event Binding and View Encapsulation (`ass4-cmps-dbnd`)
 
 Great practice. See [video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/272/introduction) and [commits](https://github.com/chrisco/ng4/commits/master) for details (`$ git log --grep="Ass 4"`).
+
+## Course Project, Continued (`proj1`)
+
+__Videos__
+
+[Adding Navigation with Event Binding and ngIf](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656142?start=0)
