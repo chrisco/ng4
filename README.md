@@ -323,5 +323,4 @@ __Videos__
 * [Adding Navigation with Event Binding and ngIf](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656142?start=0)
 * [Passing Recipe Data with Property Binding](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656142?start=0)
 * [Passing Data with Event and Property Binding (Combined)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656144?start=0)
-* []()
-* []()
+* [Allowing the User to Add Ingredients to the Shopping List](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656156?start=0)
