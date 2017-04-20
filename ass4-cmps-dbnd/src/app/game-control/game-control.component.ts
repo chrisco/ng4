@@ -29,10 +29,4 @@ export class GameControlComponent implements OnInit {
     clearInterval(this.myInterval);
     console.log('Game paused');
   }
-
-  onResetGame() {
-    console.log('Game over');
-    clearInterval(this.myInterval);
-    this.myNum = 0;
-  }
 }

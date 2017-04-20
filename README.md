@@ -314,10 +314,4 @@ __Components & Databinding Deep Dive__
 
 ## Practicing Property & Event Binding and View Encapsulation (`ass4-cmps-dbnd`)
 
-[Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/272/introduction)
-
-```
-$ ng g c GameControl --spec false
-$ ng g c Odd --spec false
-$ ng g c Even --spec false
-```
+Great practice. See [video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/272/introduction) and [commits](https://github.com/chrisco/ng4/commits/master) for details (`$ git log --grep="Ass 4"`).
