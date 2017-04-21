@@ -333,7 +333,7 @@ __Videos__
 * [ngFor and ngIf Recap](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656164?start=0)
 * [ngClass and ngStyle Recap](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656166?start=0)
 * [Creating a Basic Attribute Directive](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656170?start=0)
-* [Using the Renderer to build a Better Attribute Directive]()
+* [Using the Renderer to build a Better Attribute Directive](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656172?start=0)
 * [More about the Renderer]()
 * [Using HostListener to Listen to Host Events]()
 * [Using HostBinding to Bind to Host Properties]()
