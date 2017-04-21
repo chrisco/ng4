@@ -285,13 +285,13 @@ __Next Steps__
 
 [Video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656048?start=0)
 
-__Debugging Videos__
+## Debugging Videos
 
 1. [Angular Error Messages](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656252?start=0)
 2. [Debugging Code in the Browser Using Sourcemaps](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656260?start=0)
 3. [Using Augury to Dive into Angular Apps](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656262?start=0)
 
-__Components & Databinding Deep Dive__
+## Components & Databinding Deep Dive
 
 * [Intro](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656058?start=0)
 * [Splitting Apps into Components](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656060?start=0)
@@ -324,3 +324,20 @@ __Videos__
 * [Passing Recipe Data with Property Binding](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656142?start=0)
 * [Passing Data with Event and Property Binding (Combined)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656144?start=0)
 * [Allowing the User to Add Ingredients to the Shopping List](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656156?start=0)
+
+## Directives Deep Dive
+
+__Videos__
+
+* [Module Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656162?start=0)
+* [ngFor and ngIf Recap]()
+* [ngClass and ngStyle Recap]()
+* [Creating a Basic Attribute Directive]()
+* [Using the Renderer to build a Better Attribute Directive]()
+* [More about the Renderer]()
+* [Using HostListener to Listen to Host Events]()
+* [Using HostBinding to Bind to Host Properties]()
+* [Binding to Directive Properties]()
+* [What Happens behind the Scenes on Structural Directives]()
+* [Building a Structural Directive]()
+* [Understanding ngSwitch]()
