@@ -341,6 +341,6 @@ $ ng g d better-highlight --spec false
 * [Using HostListener to Listen to Host Events](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656176?start=0)
 * [Using HostBinding to Bind to Host Properties](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656178?start=0)
 * [Binding to Directive Properties](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656180?start=0)
-* [What Happens behind the Scenes on Structural Directives]()
+* [What Happens behind the Scenes on Structural Directives](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656182?start=0)
 * [Building a Structural Directive]()
 * [Understanding ngSwitch]()
