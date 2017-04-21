@@ -330,9 +330,9 @@ __Videos__
 __Videos__
 
 * [Module Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656162?start=0)
-* [ngFor and ngIf Recap]()
-* [ngClass and ngStyle Recap]()
-* [Creating a Basic Attribute Directive]()
+* [ngFor and ngIf Recap](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656164?start=0)
+* [ngClass and ngStyle Recap](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656166?start=0)
+* [Creating a Basic Attribute Directive](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656170?start=0)
 * [Using the Renderer to build a Better Attribute Directive]()
 * [More about the Renderer]()
 * [Using HostListener to Listen to Host Events]()
