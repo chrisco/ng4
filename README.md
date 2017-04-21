@@ -342,5 +342,5 @@ $ ng g d better-highlight --spec false
 * [Using HostBinding to Bind to Host Properties](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656178?start=0)
 * [Binding to Directive Properties](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656180?start=0)
 * [What Happens behind the Scenes on Structural Directives](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656182?start=0)
-* [Building a Structural Directive]()
-* [Understanding ngSwitch]()
+* [Building a Structural Directive](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656186?start=0)
+* [Understanding ngSwitch](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656188?start=0)
