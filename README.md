@@ -334,8 +334,11 @@ __Videos__
 * [ngClass and ngStyle Recap](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656166?start=0)
 * [Creating a Basic Attribute Directive](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656170?start=0)
 * [Using the Renderer to build a Better Attribute Directive](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656172?start=0)
-* [More about the Renderer]()
-* [Using HostListener to Listen to Host Events]()
+```
+$ ng g d better-highlight --spec false
+```
+* [More about the Renderer](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6730946?start=0)
+* [Using HostListener to Listen to Host Events](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656176?start=0)
 * [Using HostBinding to Bind to Host Properties]()
 * [Binding to Directive Properties]()
 * [What Happens behind the Scenes on Structural Directives]()
