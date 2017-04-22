@@ -316,7 +316,7 @@ __Next Steps__
 
 Great practice. See [video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/272/introduction) and [commits](https://github.com/chrisco/ng4/commits/master) for details (`$ git log --grep="Ass 4"`).
 
-## Course Project, Continued (`proj1`)
+## 6. Course Project, Continued (`proj1`)
 
 __Videos__
 
@@ -325,7 +325,7 @@ __Videos__
 * [Passing Data with Event and Property Binding (Combined)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656144?start=0)
 * [Allowing the User to Add Ingredients to the Shopping List](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656156?start=0)
 
-## Directives Deep Dive
+## 7. Directives Deep Dive
 
 __Videos__
 
@@ -344,3 +344,5 @@ $ ng g d better-highlight --spec false
 * [What Happens behind the Scenes on Structural Directives](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656182?start=0)
 * [Building a Structural Directive](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656186?start=0)
 * [Understanding ngSwitch](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656188?start=0)
+
+## 8. Course Project - Directives
