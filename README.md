@@ -346,3 +346,20 @@ $ ng g d better-highlight --spec false
 * [Understanding ngSwitch](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656188?start=0)
 
 ## 8. Course Project - Directives
+
+[Building and Using a Dropdown Directive video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656192?start=0)
+
+## 9. Using Services & Dependency Injection
+
+__Videos__
+
+[What Are Services](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656200?start=0)
+[Why would you Need Services?](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656206?start=0)
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
