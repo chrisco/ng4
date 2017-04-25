@@ -363,4 +363,8 @@ __Videos__
 * [How many Instances of Service Should It Be?](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656222?start=0)
 * [Injecting Services into Services](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656224?start=0)
 * [Using Services for Cross-Component Communication](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656226?start=0)
+
+__Practice__
+
 * [Assignment 5: Practicing Services](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/274)
+* [A Solution](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/274/instructor-solution)
