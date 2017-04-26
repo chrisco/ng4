@@ -368,3 +368,16 @@ __Practice__
 
 * [Assignment 5: Practicing Services](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/274)
 * [A Solution](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/274/instructor-solution)
+
+# 10. Course Project - Services & Dependency Injection
+
+__Videos__
+
+* [Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656232?start=0)
+* [Setting up the Services](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656234?start=0)
+* [Managing Recipes in a Recipe Service](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656236?start=0)
+* [Using a Service for Cross-Component Communication](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656238?start=0)
+* []()
+* []()
+* []()
+* []()
