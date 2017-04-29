@@ -10,7 +10,11 @@ export class DropdownDirective {
     this.isOpen = !this.isOpen;
   }
 
+  // TODO: Implement something like this, instead:
+  // https://christianliebel.com/2016/05/angular-2-a-simple-click-outside-directive/
   @HostListener('mouseleave') closeDropdown() {
-    this.isOpen = false;
+    setTimeout(() => {
+      this.isOpen = false;
+    }, 1000);
   }
 }
