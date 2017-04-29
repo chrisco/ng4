@@ -384,13 +384,13 @@ __Videos__
 
 ## 11: Changing Pages with Routing
 
-* [Module Introduction]()
-* [Why do we need a Router?]()
-* [Understanding the Example Project]()
-* [Setting up and Loading Routes]()
-* [Navigating with Router Links]()
-* [Understanding Navigation Paths]()
-* [Styling Active Router Links]()
+* [Module Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656272?start=0)
+* [Why do we need a Router?](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656274?start=0)
+* [Understanding the Example Project](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656276?start=0)
+* [Setting up and Loading Routes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656280?start=0)
+* [Navigating with Router Links](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656284?start=0)
+* [Understanding Navigation Paths](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656286?start=0)
+* [Styling Active Router Links](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656288?start=0)
 * [Navigating Programmatically]()
 * [Using Relative Paths in Programmatic Navigation]()
 * [Passing Parameters to Routes]()
