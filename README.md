@@ -391,7 +391,7 @@ __Videos__
 * [Navigating with Router Links](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656284?start=0)
 * [Understanding Navigation Paths](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656286?start=0)
 * [Styling Active Router Links](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656288?start=0)
-* [Navigating Programmatically]()
+* [Navigating Programmatically](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656292?start=0)
 * [Using Relative Paths in Programmatic Navigation]()
 * [Passing Parameters to Routes]()
 * [Fetching Route Parameters]()
