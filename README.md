@@ -392,7 +392,7 @@ __Videos__
 * [Understanding Navigation Paths](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656286?start=0)
 * [Styling Active Router Links](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656288?start=0)
 * [Navigating Programmatically](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656292?start=0)
-* [Using Relative Paths in Programmatic Navigation]()
+* [Using Relative Paths in Programmatic Navigation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656294?start=0)
 * [Passing Parameters to Routes]()
 * [Fetching Route Parameters]()
 * [Fetching Route Parameters Reactively]()
