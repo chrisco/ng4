@@ -400,7 +400,7 @@ __Videos__
 * [Passing Query Parameters and Fragments](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656308?start=0)
 * [Retrieving Query Parameters and Fragments](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656314?start=0)
 * [Practicing and some Common Gotchas](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656318?start=0)
-* [Setting up Child (Nested) Routes]()
+* [Setting up Child (Nested) Routes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656322?start=0)
 * [Using Query Parameters - Practice]()
 * [Configuring the Handling of Query Parameters]()
 * [Redirecting and Wildcard Routes]()
