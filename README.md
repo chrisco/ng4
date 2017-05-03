@@ -405,7 +405,7 @@ __Videos__
 * [Configuring the Handling of Query Parameters](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656330?start=0)
 * [Redirecting and Wildcard Routes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656332?start=0)
 * [Important: Redirection Path Matching](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656336?start=0)
-* [Outsourcing the Route Configuration]()
+* [Outsourcing the Route Configuration](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656338?start=0)
 * [An Introduction to Guards]()
 * [Protecting Routes with canActivate]()
 * [Protecting Child (Nested) Routes with canActivateChild]()
