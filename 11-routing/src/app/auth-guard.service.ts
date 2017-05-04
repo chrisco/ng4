@@ -2,7 +2,8 @@ import {
   CanActivate,
   ActivatedRouteSnapshot,
   RouterStateSnapshot,
-  Router
+  Router,
+  CanActivateChild
 } from '@angular/router';
 import { Observable } from 'rxjs/Observable';
 import { Injectable } from '@angular/core';
@@ -25,5 +26,10 @@ export class AuthGuard implements CanActivate {
         }
       }
       );
+  }
+
+  canActivateChild(route: ActivatedRouteSnapshot,
+    state: RouterStateSnapshot): Observable<boolean> | Promise<boolean> | boolean {
+      return this.canActivate(route, state);
   }
 }
