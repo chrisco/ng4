@@ -409,7 +409,7 @@ __Videos__
 * [An Introduction to Guards](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656340?start=0)
 * [Protecting Routes with canActivate](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656342?start=0)
 * [Protecting Child (Nested) Routes with canActivateChild](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656356?start=0)
-* [Using a Fake Auth Service]()
+* [Using a Fake Auth Service](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656350?start=0)
 * [Controlling Navigation with canDeactivate]()
 * [Passing Static Data to a Route]()
 * [Resolving Dynamic Data with the resolve Guard]()
