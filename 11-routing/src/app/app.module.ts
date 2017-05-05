@@ -16,46 +16,7 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
 import { AppRoutingModule } from './app-routing.module';
 import { AuthService } from './auth.service';
 import { AuthGuard } from './auth-guard.service';
-
-const appRoutes: Routes = [
-  {
-    path: '',
-    component: HomeComponent
-  },
-  {
-    path: 'servers',
-    component: ServersComponent,
-    children: [
-      {
-        path: ':id',
-        component: ServerComponent
-      },
-      {
-        path: ':id/edit',
-        component: EditServerComponent
-      }
-    ]
-  },
-  {
-    path: 'users',
-    component: UsersComponent,
-    children: [
-      {
-        path: ':id/:name',
-        component: UserComponent
-      }
-    ]
-  },
-  {
-    path: 'not-found',
-    component: PageNotFoundComponent
-  },
-  {
-    path: '**',
-    redirectTo: '/not-found',
-    pathMatch: 'full'
-  }
-];
+import { CanDeactivateGuard } from './servers/edit-server/can-deactivate-guard.service';
 
 @NgModule({
   declarations: [
@@ -74,7 +35,7 @@ const appRoutes: Routes = [
     HttpModule,
     AppRoutingModule
   ],
-  providers: [ServersService, AuthService, AuthGuard],
+  providers: [ServersService, AuthService, AuthGuard, CanDeactivateGuard],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
