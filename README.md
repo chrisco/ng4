@@ -413,5 +413,5 @@ __Videos__
 * [Controlling Navigation with canDeactivate](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656346?start=0)  (good video to rewatch)
 * [Passing Static Data to a Route](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656358?start=30)
 * [Resolving Dynamic Data with the Resolve Guard](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656360?start=0)
-* [Understanding Location Strategies]()
+* [Understanding Location Strategies](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656364?start=0)
 * [Wrap Up]()
