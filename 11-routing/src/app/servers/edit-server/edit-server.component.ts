@@ -12,6 +12,7 @@ import { ServersService } from '../servers.service';
 })
 export class EditServerComponent implements OnInit, CanComponentDeactivate {
   server: { id: number, name: string, status: string };
+  serverID: number;
   serverName = '';
   serverStatus = '';
   allowEdit = false;
@@ -31,11 +32,11 @@ export class EditServerComponent implements OnInit, CanComponentDeactivate {
       }
     );
     this.route.fragment.subscribe();
-    let id = +this.route.snapshot.params['id'];
-    this.server = this.serversService.getServer(id);
+    this.serverID = +this.route.snapshot.params['id'];
+    this.server = this.serversService.getServer(this.serverID);
     this.route.queryParams.subscribe(
       (queryParams: Params) => {
-        id = queryParams['id'];
+        this.serverID = queryParams['id'];
       }
     );
     this.serverName = this.server.name;

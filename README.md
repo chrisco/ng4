@@ -411,7 +411,7 @@ __Videos__
 * [Protecting Child (Nested) Routes with canActivateChild](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656356?start=0)
 * [Using a Fake Auth Service](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656350?start=0)
 * [Controlling Navigation with canDeactivate](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656346?start=0)  (good video to rewatch)
-* [Passing Static Data to a Route]()
+* [Passing Static Data to a Route](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656358?start=30)
 * [Resolving Dynamic Data with the resolve Guard]()
 * [Understanding Location Strategies]()
 * [Wrap Up]()
