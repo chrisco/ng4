@@ -419,8 +419,8 @@ __Videos__
 
 * [Planning the General Structure](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656374?start=0)
 * [Setting Up Routes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656376?start=0)
-* [Adding Navigation to the App]()
-* [Marking Active Routes]()
+* [Adding Navigation to the App](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656380?start=0)
+* [Marking Active Routes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656386?start=0)
 * [Fixing Page Reload Issues]()
 * [Child Routes: Challenge]()
 * [Adding Child Routing Together]()
