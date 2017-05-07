@@ -414,4 +414,21 @@ __Videos__
 * [Passing Static Data to a Route](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656358?start=30)(good video to rewatch)
 * [Resolving Dynamic Data with the Resolve Guard](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656360?start=0)(good video to rewatch)
 * [Understanding Location Strategies](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656364?start=0)
-* [Wrap Up]()
+
+## 12: Course Project - Routing
+
+* [Planning the General Structure](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656374?start=0)
+* [Setting Up Routes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656376?start=0)
+* [Adding Navigation to the App]()
+* [Marking Active Routes]()
+* [Fixing Page Reload Issues]()
+* [Child Routes: Challenge]()
+* [Adding Child Routing Together]()
+* [Configuring Route Parameters]()
+* [Passing Dynamic Parameters to Links]()
+* [Styling Active Recipe Items]()
+* [Adding Editing Routes]()
+* [Retrieving Route Parameters]()
+* [Programmatic Navigation to the Edit Page]()
+* [One Note about Route Observables]()
+* [Project Cleanup]()
