@@ -421,7 +421,7 @@ __Videos__
 * [Setting Up Routes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656376?start=0)
 * [Adding Navigation to the App](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656380?start=0)
 * [Marking Active Routes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656386?start=0)
-* [Fixing Page Reload Issues]()
+* [Fixing Page Reload Issues](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656388?start=0)
 * [Child Routes: Challenge]()
 * [Adding Child Routing Together]()
 * [Configuring Route Parameters]()
