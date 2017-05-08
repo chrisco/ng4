@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Params } from '@angular/router';
+import { ActivatedRoute, Params, Router } from '@angular/router';
 
 import { Recipe } from '../recipe.model';
 import { RecipeService } from '../../recipes/recipe.service';
@@ -13,7 +13,9 @@ export class RecipeDetailComponent implements OnInit {
   recipe: Recipe;
   id: number;
 
-  constructor(private recipeService: RecipeService, private route: ActivatedRoute) { }
+  constructor(private recipeService: RecipeService,
+    private route: ActivatedRoute,
+    private router: Router) { }
 
   ngOnInit() {
     this.route.params.subscribe(
@@ -26,5 +28,13 @@ export class RecipeDetailComponent implements OnInit {
 
   onAddToShoppingList() {
     this.recipeService.addIngredientsToShoppingList(this.recipe.ingredients);
+  }
+
+  onRecipeEdit() {
+    // Two ways to do it [at least]:
+    // 1: Straghtforward
+    // this.router.navigate(['edit'], { relativeTo: this.route });
+    // 2: Build up and use info from params:
+    this.router.navigate(['../', this.id, 'edit'], { relativeTo: this.route });
   }
 }
