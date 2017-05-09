@@ -431,4 +431,16 @@ __Videos__
 * [Retrieving Route Parameters](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656434?start=0)
 * [Programmatic Navigation to the Edit Page](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656442?start=0)
 * [One Note about Route Observables](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656444?start=0)
-* [Project Cleanup]()
+* [Project Cleanup](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656448?start=0)
+
+## 13: Understanding Observables
+
+* [Module Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656534?start=0)
+* [Analyzing a Built-in Angular Observable](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656536?start=0)
+* [Building & Using a First Simple Observable]()
+* [Building & Using a Custom Observable from Scratch]()
+* [Unsubscribe!]()
+* [Where to learn more]()
+* [Using Subjects to Pass AND Listen to Data]()
+* [Understanding Observable Operators]()
+* [Wrap Up]()
