@@ -437,7 +437,7 @@ __Videos__
 
 * [Module Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656534?start=0)
 * [Analyzing a Built-in Angular Observable](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656536?start=0)
-* [Building & Using a First Simple Observable]()
+* [Building & Using a First Simple Observable](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656538?start=0)
 * [Building & Using a Custom Observable from Scratch]()
 * [Unsubscribe!]()
 * [Where to learn more]()
