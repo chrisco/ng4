@@ -442,5 +442,5 @@ __Videos__
 * [Unsubscribe!](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656544?start=0)
 * [Where to learn more](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656546?start=0)
 * [Using Subjects to Pass AND Listen to Data](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656548?start=0)
-* [Understanding Observable Operators]()
-* [Wrap Up]()
+* [Understanding Observable Operators](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656550?start=0)
+* [Wrap Up](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656552?start=0)
