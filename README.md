@@ -444,3 +444,7 @@ __Videos__
 * [Using Subjects to Pass AND Listen to Data](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656548?start=0)
 * [Understanding Observable Operators](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656550?start=0)
 * [Wrap Up](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656552?start=0)
+
+## 14: Course Project - Observables
+
+* [Improving the Reactive Service with Observables (Subjects)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656558?start=0)
