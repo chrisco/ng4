@@ -12,9 +12,9 @@ export class ShoppingEditComponent implements OnInit {
   @ViewChild('nameInput') nameInputRef: ElementRef;
   @ViewChild('amountInput') amountInputRef: ElementRef;
 
-  constructor(private shoppingListService: ShoppingListService) {}
+  constructor(private shoppingListService: ShoppingListService) { }
 
-  ngOnInit() {}
+  ngOnInit() { }
 
   onAddItem() {
     const ingName = this.nameInputRef.nativeElement.value;
