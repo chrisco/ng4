@@ -459,10 +459,13 @@ __Videos__
 * [TD: Submitting and Using the Form](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656464?start=0)
 * [TD: Understanding Form State](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656466?start=0)
 * [TD: Accessing the Form with @ViewChild](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656468?start=0)
-* [TD: Adding Validation to check User Input]()
-* [Built-in Validators & Using HTML5 Validation]()
-* [TD: Using the Form State]()
-* [TD: Outputting Validation Error Messages]()
+* [TD: Adding Validation to check User Input](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656470?start=0)
+* [Built-in Validators & Using HTML5 Validation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656496?start=0)
+  * For the Template-driven approach, you need the directives. Find their names by searching for "validator" [here](https://angular.io/docs/ts/latest/api/#!?query=validator) in the Angular docs. Everything marked with "D" is a directive and can be added to your template.
+  * For the Reactive approach, see the Angular docs [Validators class](https://angular.io/docs/ts/latest/api/forms/index/Validators-class.html)
+  * You can also enable HTML5 validation (by default, Angular disables it) by adding the `ngNativeValidate` to a control in your template.
+* [TD: Using the Form State](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656472?start=0)
+* [TD: Outputting Validation Error Messages](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656476?start=0)
 * [TD: Set Default Values with ngModel Property Binding]()
 * [TD: Using ngModel with Two-Way-Binding]()
 * [TD: Grouping Form Controls]()
