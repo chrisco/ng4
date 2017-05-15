@@ -466,7 +466,7 @@ __Videos__
   * You can also enable HTML5 validation (by default, Angular disables it) by adding the `ngNativeValidate` to a control in your template.
 * [TD: Using the Form State](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656472?start=0)
 * [TD: Outputting Validation Error Messages](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656476?start=0)
-* [TD: Set Default Values with ngModel Property Binding]()
+* [TD: Set Default Values with ngModel Property Binding](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656478?start=0)
 * [TD: Using ngModel with Two-Way-Binding]()
 * [TD: Grouping Form Controls]()
 * [TD: Handling Radio Buttons]()
