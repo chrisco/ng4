@@ -8,10 +8,7 @@
             <input type="text" id="username" class="form-control" ngModel name="username" required #username="ngModel">
             <span class="help" *ngIf="!username.valid && username.touched">Please enter a username!</span>
           </div>
-          <button
-            class="btn btn-default"
-            type="button"
-            (click)="suggestUserName()">Suggest Username</button>
+          <button class="btn btn-default" type="button" (click)="suggestUserName()">Suggest Username</button>
           <div class="form-group">
             <label for="email">Mail</label>
             <input type="email" id="email" class="form-control" ngModel name="email" required email #email="ngModel">
@@ -42,6 +39,17 @@
         </div>
         <button class="btn btn-primary" type="submit" [disabled]=!f.valid>Submit</button>
       </form>
+    </div>
+  </div>
+  <hr>
+  <div class="row col-xs-12" *ngIf="submitted">
+    <div class="col-xs-12 col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
+      <h3>Your Data:</h3>
+      <p>Username: {{ user.username }}</p>
+      <p>Email: {{ user.email }}</p>
+      <p>Secret Question: You're first {{ user.secretQuestion }}</p>
+      <p>Answer: {{ user.answer }}</p>
+      <p>Gender: {{ user.gender }}</p>
     </div>
   </div>
 </div>
