@@ -470,7 +470,7 @@ __Videos__
 * [TD: Using ngModel with Two-Way-Binding](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656480?start=0)
 * [TD: Grouping Form Controls](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656484?start=0)
 * [TD: Handling Radio Buttons](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656486?start=0)
-* [TD: Setting and Patching Form Values]()
+* [TD: Setting and Patching Form Values](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656488?start=0)
 * [TD: Using Form Data]()
 * [TD: Resetting Forms]()
 * [Assignment 6: Practicing Template-Driven Forms]()
