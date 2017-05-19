@@ -48,5 +48,15 @@ export class AppComponent {
     this.user.answer = this.signupForm.value.questionAnswer;
     this.user.gender = this.signupForm.value.gender;
     this.submitted = true;
+
+    // Reset the form:
+    // Approach 1:
+    this.signupForm.reset();
+    // Approach 2:
+    // this.signupForm.reset({
+    //   userData: {
+    //     username: 'foo'
+    //   }
+    // });
   }
 }
