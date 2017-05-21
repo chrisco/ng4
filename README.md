@@ -474,6 +474,7 @@ __Videos__
 * [TD: Using Form Data](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656490?start=0)
 * [TD: Resetting Forms](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656492?start=0)
 * [Assignment 6: Practicing Template-Driven Forms](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/276/introduction)
+* [Assignment 6: Instructor Solution](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/276/instructor-solution)
 * [Introduction to the Reactive Approach]()
 * [Reactive: Setup]()
 * [Reactive: Creating a Form in Code]()
