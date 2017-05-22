@@ -480,7 +480,7 @@ __Videos__
 * [Reactive: Creating a Form in Code](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656502?start=0)
 * [Reactive: Syncing HTML and Form](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656504?start=0)
 * [Reactive: Submitting the Form](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656506?start=0)
-* [Reactive: Adding Validation]()
+* [Reactive: Adding Validation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656508?start=0)
 * [Reactive: Getting Access to Controls]()
 * [Reactive: Grouping Controls]()
 * [Reactive: Arrays of Form Controls (FormArray)]()
