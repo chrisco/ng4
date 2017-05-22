@@ -477,7 +477,7 @@ __Videos__
 * [Assignment 6: Instructor Solution](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/276/instructor-solution)
 * [Introduction to the Reactive Approach](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656498?start=0)
 * [Reactive: Setup](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656500?start=0)
-* [Reactive: Creating a Form in Code]()
+* [Reactive: Creating a Form in Code](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656502?start=0)
 * [Reactive: Syncing HTML and Form]()
 * [Reactive: Submitting the Form]()
 * [Reactive: Adding Validation]()
