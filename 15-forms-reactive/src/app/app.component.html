@@ -15,7 +15,7 @@
                 class="help-block">Please enter a valid username.</span>
           </div>
           <div class="form-group">
-            <label for="email">email</label>
+            <label for="email">Email</label>
             <input
               type="text"
               id="email"
@@ -34,6 +34,26 @@
               [value]="gender">{{ gender }}
           </label>
         </div>
+        <div formArrayName="hobbies">
+          <h5>Your Hobbies</h5>
+          <button
+            class="btn btn-default btn-sm"
+            type="button"
+            (click)="onAddHobby()">Add Hobby</button>
+            <br>
+            <br>
+            <div
+              class="form-group"
+              *ngFor="let hobbyControl of signupForm.get('hobbies').controls; let i = index">
+              <input
+                type="text"
+                class="form-control"
+                placeholder="Your hobby"
+                [formControlName]="i">
+              <!-- <p class="help-block">Help text here.</p> -->
+            </div>
+        </div>
+        <br>
         <span
           *ngIf="!signupForm.valid && signupForm.touched"
           class="help-block">Please fix the errors listed above.</span>
