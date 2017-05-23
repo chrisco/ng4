@@ -484,7 +484,7 @@ __Videos__
 * [Reactive: Getting Access to Controls](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656510?start=0)
 * [Reactive: Grouping Controls](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656512?start=0)
 * [Reactive: Arrays of Form Controls (FormArray)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656514?start=0)
-* [Reactive: Creating Custom Validators]()
+* [Reactive: Creating Custom Validators](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656518?start=0)
 * [Reactive: Using Error Codes]()
 * [Reactive: Creating a Custom Async Validator]()
 * [Reactive: Reacting to Status or Value Changes]()
