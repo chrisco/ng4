@@ -482,7 +482,7 @@ __Videos__
 * [Reactive: Submitting the Form](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656506?start=0)
 * [Reactive: Adding Validation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656508?start=0)
 * [Reactive: Getting Access to Controls](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656510?start=0)
-* [Reactive: Grouping Controls]()
+* [Reactive: Grouping Controls](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656512?start=0)
 * [Reactive: Arrays of Form Controls (FormArray)]()
 * [Reactive: Creating Custom Validators]()
 * [Reactive: Using Error Codes]()
