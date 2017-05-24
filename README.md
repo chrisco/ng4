@@ -487,6 +487,6 @@ __Videos__
 * [Reactive: Creating Custom Validators](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656518?start=0)
 * [Reactive: Using Error Codes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656520?start=0)
 * [Reactive: Creating a Custom Async Validator](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656522?start=0)
-* [Reactive: Reacting to Status or Value Changes]()
+* [Reactive: Reacting to Status or Value Changes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656524?start=0)
 * [Reactive: Setting and Patching Values]()
 * [Assignment 7: Practicing Reactive Forms]()
