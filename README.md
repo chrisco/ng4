@@ -490,5 +490,5 @@ __Videos__
 * [Reactive: Reacting to Status or Value Changes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656524?start=0)
 * [Reactive: Setting and Patching Values](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656528?start=0)
 * [Assignment 7: Practicing Reactive Forms](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/278)
-* [Assignment Instructions](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/278/introduction)
-* [Assignment Solution]()
+* [Assignment 7 Instructions](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/278/introduction)
+* [Assignment 7 Solution](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/278/instructor-solution) (good video to rewatch)
