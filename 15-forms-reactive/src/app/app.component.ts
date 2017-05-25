@@ -31,10 +31,29 @@ export class AppComponent implements OnInit {
         console.log(status);
       }
     );
+
+    // this.signupForm.setValue({
+    //   userData: {
+    //     username: 'Foo',
+    //     email: 'foo@bar.com'
+    //   },
+    //   gender: 'male',
+    //   hobbies: []
+    // });
+
+    this.signupForm.patchValue({
+      userData: {
+        username: 'Bar',
+      },
+      gender: 'female'
+    });
   }
 
   onSubmit() {
     console.log(this.signupForm);
+    this.signupForm.reset({
+      gender: 'male'
+    });
   }
 
   onAddHobby() {
