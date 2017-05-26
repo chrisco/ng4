@@ -10,7 +10,8 @@ import { CustomValidators } from './custom-validators';
 })
 export class AppComponent implements OnInit {
   signupForm: FormGroup;
-  // projectStatusOptions = ['Stable', 'Critical', 'Finished'];
+  statusChoices = ['Stable', 'Critical', 'Finished'];
+  defaultStatus = 'Critical';
 
   ngOnInit() {
     this.signupForm = new FormGroup({
@@ -20,8 +21,12 @@ export class AppComponent implements OnInit {
         CustomValidators.asyncInvalidProjectName,
       ),
       email: new FormControl(null, [Validators.required, Validators.email]),
-      status: new FormControl('critical'),
+      status: new FormControl(null),
     });
+
+    setTimeout(() => {
+      this.signupForm.controls['status'].patchValue(this.defaultStatus);
+    }, 0);
   }
 
   onSaveProject() {

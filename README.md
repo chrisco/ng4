@@ -492,3 +492,48 @@ __Videos__
 * [Assignment 7: Practicing Reactive Forms](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/278)
 * [Assignment 7 Instructions](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/278/introduction)
 * [Assignment 7 Solution](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/278/instructor-solution) (good video to rewatch)
+
+__Setting Default Option Selection__
+
+HTML (standard way, I think, to dynamically populate the options):
+```html
+<form [formGroup]="signupForm" (ngSubmit)="onSaveProject()">
+  <div class="form-group">
+    <label for="status">Project Status:</label>
+    <select name="status" formControlName="status" [(ngModel)]="signupForm.statusChoices" class="form-control">
+      <option *ngFor="let choice of statusChoices" [value]="choice">{{ choice }}</option>
+    </select>
+  </div>
+</form>
+```
+
+TS (the `setTimeout()` is the thing that does the thing):
+```javascript
+export class AppComponent implements OnInit {
+  signupForm: FormGroup;
+  statusChoices = ['Stable', 'Critical', 'Finished'];
+  defaultStatus = 'Critical';
+
+  ngOnInit() {
+    this.signupForm = new FormGroup({
+      projectname: new FormControl(
+        null,
+        [Validators.required, CustomValidators.invalidProjectName],
+        CustomValidators.asyncInvalidProjectName,
+      ),
+      email: new FormControl(null, [Validators.required, Validators.email]),
+      status: new FormControl(null),
+    });
+
+    setTimeout(() => {
+      this.signupForm.controls['status'].patchValue(this.defaultStatus);
+    }, 0);
+  }
+
+  onSaveProject() {
+    console.log(this.signupForm);
+  }
+}
+```
+
+Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-select/issues/17#issuecomment-258909876)
