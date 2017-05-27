@@ -449,7 +449,7 @@ __Videos__
 
 * [Improving the Reactive Service with Observables (Subjects)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656558?start=0)
 
-## 15 Handling Forms in Angular Apps
+## 15: Handling Forms in Angular Apps
 
 * [Module Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656450?start=0)
 * [Why do we Need Angular's Help?](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656454?start=0)
@@ -537,3 +537,27 @@ export class AppComponent implements OnInit {
 ```
 
 Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-select/issues/17#issuecomment-258909876)
+
+## 16: Course Project - Forms
+
+* [Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659432?start=0)
+* [TD: Adding the Shopping List Form](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659434?start=0)
+* [Adding Validation to the Form]()
+* [Allowing the Selection of Items in the List]()
+* [Loading the Shopping List Items into the Form]()
+* [Updating existing Items]()
+* [Resetting the Form]()
+* [Allowing the the User to Clear (Cancel) the Form]()
+* [Allowing the Deletion of Shopping List Items]()
+* [Creating the Template for the (Reactive) Recipe Edit Form]()
+* [Creating the Form For Editing Recipes]()
+* [Syncing HTML with the Form]()
+* [Adding Ingredient Controls to a Form Array]()
+* [Adding new Ingredient Controls]()
+* [Validating User Input]()
+* [Submitting the Recipe Edit Form]()
+* [Adding a Delete and Clear (Cancel) Functionality]()
+* [Redirecting the User (after Deleting a Recipe)]()
+* [Adding an Image Preview]()
+* [Providing the Recipe Service Correctly]()
+* [Deleting Ingredients and Some Finishing Touches]()
