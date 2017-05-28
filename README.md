@@ -542,7 +542,7 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 
 * [Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659432?start=0)
 * [TD: Adding the Shopping List Form](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659434?start=0)
-* [Adding Validation to the Form]()
+* [Adding Validation to the Form](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659436?start=0)
 * [Allowing the Selection of Items in the List]()
 * [Loading the Shopping List Items into the Form]()
 * [Updating existing Items]()
