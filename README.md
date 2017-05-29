@@ -553,7 +553,7 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [Creating the Form For Editing Recipes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6708066?start=0)
 * [Syncing HTML with the Form](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659464?start=0)
 * [Adding Ingredient Controls to a Form Array](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659466?start=0)
-* [Adding new Ingredient Controls]()
+* [Adding new Ingredient Controls](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659468?start=0)
 * [Validating User Input]()
 * [Submitting the Recipe Edit Form]()
 * [Adding a Delete and Clear (Cancel) Functionality]()
