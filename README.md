@@ -558,6 +558,6 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [Submitting the Recipe Edit Form](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659472?start=0)
 * [Adding a Delete and Clear (Cancel) Functionality](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659474?start=0)
 * [Redirecting the User (after Deleting a Recipe)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659478?start=0)
-* [Adding an Image Preview]()
+* [Adding an Image Preview](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659484?start=0)
 * [Providing the Recipe Service Correctly]()
 * [Deleting Ingredients and Some Finishing Touches]()
