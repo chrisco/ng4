@@ -560,4 +560,4 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [Redirecting the User (after Deleting a Recipe)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659478?start=0)
 * [Adding an Image Preview](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659484?start=0)
 * [Providing the Recipe Service Correctly](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659486?start=0)
-* [Deleting Ingredients and Some Finishing Touches]()
+* [Deleting Ingredients and Some Finishing Touches](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659492?start=0)
