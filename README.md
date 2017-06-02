@@ -562,7 +562,7 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [Providing the Recipe Service Correctly](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659486?start=0)
 * [Deleting Ingredients and Some Finishing Touches](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6659492?start=0)
 * [Introduction & Why Pipes are Useful](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656566?start=0)
-* [Using Pipes]()
+* [Using Pipes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656568?start=0)
 * [Parametrizing Pipes]()
 * [Where to learn more about Pipes]()
 * [Chaining Multiple Pipes]()
