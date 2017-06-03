@@ -567,7 +567,7 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [Where to learn more about Pipes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656574?start=0)
 * [Chaining Multiple Pipes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656576?start=0)
 * [Creating a Custom Pipe](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656578?start=0)
-* [Parametrizing a Custom Pipe]()
+* [Parametrizing a Custom Pipe](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656582?start=0)
 * [Example: Creating a Filter Pipe]()
 * [Pure and Impure Pipes (or: How to "fix" the Filter Pipe)]()
 * [Understanding the "async" Pipe]()
