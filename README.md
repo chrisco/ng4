@@ -571,4 +571,5 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [Example: Creating a Filter Pipe](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656584?start=0) `$ ng g p filter`
 * [Pure and Impure Pipes (or: How to "fix" the Filter Pipe)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656586?start=0)
 * [Understanding the "async" Pipe](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656588?start=0)
-* [Assignment 8: Practicing Pipes]()
+* [Assignment 8: Practicing Pipes: Instructions](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/280/introduction)
+* [Assignment 8: Practicing Pipes: Solution]()
