@@ -573,3 +573,16 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [Understanding the "async" Pipe](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656588?start=0)
 * [Assignment 8: Practicing Pipes: Instructions](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/280/introduction)
 * [Assignment 8: Practicing Pipes: Solution](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/practice/280/instructor-solution)
+
+## 18: Making Http Requests
+
+* [Introduction & How Http Requests Work in SPAs](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656604?start=0)
+* [Example App & Backend Setup](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656606?start=0)
+* [Sending Requests (Example: POST Request)]()
+* [Adjusting Request Headers]()
+* [Sending GET Requests]()
+* [Sending a PUT Request]()
+* [Transform Responses Easily with Observable Operators (map())]()
+* [Using the Returned Data]()
+* [Catching Http Errors]()
+* [Using the "async" Pipe with Http Requests]()
