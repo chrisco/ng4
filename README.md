@@ -579,7 +579,7 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [Introduction & How Http Requests Work in SPAs](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656604?start=0)
 * [Example App & Backend Setup](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656606?start=0)
 * [Sending Requests (Example: POST Request)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656608?start=0)
-* [Adjusting Request Headers]()
+* [Adjusting Request Headers](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656610?start=0)
 * [Sending GET Requests]()
 * [Sending a PUT Request]()
 * [Transform Responses Easily with Observable Operators (map())]()
