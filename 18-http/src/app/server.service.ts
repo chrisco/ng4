@@ -10,7 +10,12 @@ export class ServerService {
       'Content-Type': 'application/json'
     });
 
-    return this.http.post('https://http-2af22.firebaseio.com/data.json',
+    // return this.http.post('https://http-2af22.firebaseio.com/data.json',
+    //   servers,
+    //   { headers: headers }
+    // );
+
+    return this.http.put('https://http-2af22.firebaseio.com/data.json',
       servers,
       { headers: headers }
     );
