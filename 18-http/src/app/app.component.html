@@ -5,6 +5,7 @@
       <button class="btn btn-primary" (click)="onAddServer(serverName.value)">Add Server</button>
       <br><br>
       <button class="btn btn-success" (click)="onSave()">Save Servers</button>
+      <button class="btn btn-success" (click)="onGet()">Get Servers</button>
       <hr>
       <ul class="list-group" *ngFor="let server of servers">
         <li class="list-group-item">{{ server.name }} (ID: {{ server.id }})</li>
