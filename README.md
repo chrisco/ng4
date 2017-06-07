@@ -582,7 +582,7 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [Adjusting Request Headers](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656610?start=0)
 * [Sending GET Requests](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656612?start=0)
 * [Sending a PUT Request](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656616?start=0)
-* [Transform Responses Easily with Observable Operators (map())]()
+* [Transform Responses Easily with Observable Operators (map())](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656618?start=0)
 * [Using the Returned Data]()
 * [Catching Http Errors]()
 * [Using the "async" Pipe with Http Requests]()
