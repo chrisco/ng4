@@ -26,8 +26,13 @@ export class ServerService {
     return this.http.get('https://http-2af22.firebaseio.com/data.json')
       .map(
         (response: Response) => {
-          const data = response.json();
-          return data;
+          const servers = response.json();
+
+          for (const server of servers) {
+            server.name = `FETCHED_${server.name}`;
+          }
+
+          return servers;
         }
       );
   }
