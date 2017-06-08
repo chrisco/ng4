@@ -590,7 +590,7 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 ## 19: Course Project - Http
 
 * [Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656628?start=0)
-* [Setting up Firebase as a Dummy Backend]()
+* [Setting up Firebase as a Dummy Backend](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656630?start=0)
 * [Sending PUT Requests to Save Data]()
 * [GETting Back the Recipes]()
 * [Transforming Response Data to Prevent Errors]()
