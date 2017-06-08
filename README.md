@@ -593,4 +593,4 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [Setting up Firebase as a Dummy Backend](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656630?start=0)
 * [Sending PUT Requests to Save Data](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656632?start=0)
 * [GETting Back the Recipes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656634?start=0)
-* [Transforming Response Data to Prevent Errors]()
+* [Transforming Response Data to Prevent Errors](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656640?start=0)
