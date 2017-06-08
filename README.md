@@ -586,3 +586,11 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [Using the Returned Data](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656620?start=0)
 * [Catching Http Errors](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656622?start=0)
 * [Using the "async" Pipe with Http Requests](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656624?start=0)
+
+## 19: Course Project - Http
+
+* [Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656628?start=0)
+* [Setting up Firebase as a Dummy Backend]()
+* [Sending PUT Requests to Save Data]()
+* [GETting Back the Recipes]()
+* [Transforming Response Data to Prevent Errors]()
