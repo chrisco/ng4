@@ -24,7 +24,7 @@ export class ServerService {
   }
 
   getServers() {
-    return this.http.get('https://http-2af22.firebaseio.com/')
+    return this.http.get('https://http-2af22.firebaseio.com/data.json')
       .map(
         (response: Response) => {
           const servers = response.json();
@@ -39,5 +39,14 @@ export class ServerService {
       .catch((error: Response) => {
         return Observable.throw(new Error('Something went wrong!'));
       });
+  }
+
+  getAppName() {
+    return this.http.get('https://http-2af22.firebaseio.com/appName.json')
+      .map(
+        (response: Response) => {
+          return response.json();
+        }
+      );
   }
 }
