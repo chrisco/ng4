@@ -594,3 +594,20 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [Sending PUT Requests to Save Data](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656632?start=0)
 * [GETting Back the Recipes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656634?start=0)
 * [Transforming Response Data to Prevent Errors](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656640?start=0)
+
+## 20: Authentication & Route Protection in Angular Apps
+
+* [Module Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656644?start=0)
+* [How Authentication Works in Single-Page-Applications](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656648?start=0)
+* [More about JWT](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656680?start=0)
+* [Creating a Signup Page and Route](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656650?start=0)
+* [Setting up the Firebase SDK]()
+* [Signing Users Up]()
+* [Signin Users In]()
+* [Requiring a Token (on the Backend)]()
+* [Sending the Token]()
+* [Checking and Using Authentication Status]()
+* [Adding a Logout Button]()
+* [Route Protection and Redirection Example]()
+* [Wrap Up]()
+* [Possible Improvements]()
