@@ -601,8 +601,14 @@ Source: [how i can set default value ? #17](https://github.com/basvandenberg/ng-
 * [How Authentication Works in Single-Page-Applications](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656648?start=0)
 * [More about JWT](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656680?start=0)
 * [Creating a Signup Page and Route](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656650?start=0)
-* [Setting up the Firebase SDK]()
-* [Signing Users Up]()
+* [Setting up the Firebase SDK](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656652?start=0) `$ npm i -S firebase`
+* [Signing Users Up](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656656?start=0)    
+__Troubleshooting__:    
+Got [this error](https://github.com/ionic-team/ionic-app-scripts/issues/1001) which was fixed with:    
+```
+$ npm install promise-polyfill --save-exact
+$ npm i
+```
 * [Signin Users In]()
 * [Requiring a Token (on the Backend)]()
 * [Sending the Token]()
