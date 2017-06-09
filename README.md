@@ -609,7 +609,7 @@ Got [this error](https://github.com/ionic-team/ionic-app-scripts/issues/1001) wh
 $ npm install promise-polyfill --save-exact
 $ npm i
 ```
-* [Signin Users In]()
+* [Signin Users In](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656658?start=0)
 * [Requiring a Token (on the Backend)]()
 * [Sending the Token]()
 * [Checking and Using Authentication Status]()
