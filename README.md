@@ -610,8 +610,8 @@ $ npm install promise-polyfill --save-exact
 $ npm i
 ```
 * [Signin Users In](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656658?start=0)
-* [Requiring a Token (on the Backend)]()
-* [Sending the Token]()
+* [Requiring a Token (on the Backend)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656662?start=0)
+* [Sending the Token](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656664?start=0)
 * [Checking and Using Authentication Status]()
 * [Adding a Logout Button]()
 * [Route Protection and Redirection Example]()
