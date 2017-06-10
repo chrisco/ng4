@@ -615,5 +615,9 @@ $ npm i
 * [Checking and Using Authentication Status](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656666?start=0)
 * [Adding a Logout Button](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656668?start=0)
 * [Route Protection and Redirection Example](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656674?start=0)
-* [Wrap Up]()
-* [Possible Improvements]()
+* [Wrap Up](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656678?start=0)
+* [Possible Improvements](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656682?start=0)
+__TODO__:    
+* Check if a token is present at application startup (check the localStorage manually or use the Firebase SDK to do so - make sure to wait for the SDK to finish its initialization)
+* Redirect the user if they want to access a protected route - inject the router and call this.router.navigate(...)
+* Redirect the user on logout so that they're not able to stay on pages which are reserved for authenticated users - you can simply inject the router and call this.router.navigate(...) in the logout() method
