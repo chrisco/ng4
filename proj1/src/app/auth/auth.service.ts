@@ -3,12 +3,12 @@ import * as firebase from 'firebase';
 export class AuthService {
   token: string;
 
-  signupUser(email: string, password: string) {
+  signUpUser(email: string, password: string) {
     firebase.auth().createUserWithEmailAndPassword(email, password)
       .catch(error => console.log(error));
   }
 
-  signinUser(email: string, password: string) {
+  signInUser(email: string, password: string) {
     firebase.auth().signInWithEmailAndPassword(email, password)
       .then(response => {
         firebase.auth().currentUser.getToken()
@@ -19,6 +19,11 @@ export class AuthService {
           );
       })
       .catch(error => console.log(error));
+  }
+
+  signOut() {
+    firebase.auth().signOut();
+    this.token = null;
   }
 
   getToken() {
