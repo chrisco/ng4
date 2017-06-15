@@ -638,10 +638,19 @@ __TODO__:
 * [Creating the Auth Feature Module](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656714?start=0)
 * [Understanding Lazy Loading](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656716?start=0)
 * [Adding Lazy Loading to the Recipes Module](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656718?start=0)
-* [Protecting Lazy Loaded Routes with canLoad]()
-* [How Modules and Services Work Together]()
-* [Understanding the Core Module]()
-* [Creating a Basic Core Module]()
+* [Protecting Lazy Loaded Routes with canLoad](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656742?start=0)
+What if you want to use route protection (`canActivate` to be precise) on lazily loaded routes?
+
+You can add `canActivate` to the lazy loaded routes but that of course means, that you might load code which in the end can't get accessed anyways. It would be better to check that BEFORE loading the code.
+
+You can enforce this behavior by adding the `canLoad` guard to the route which points to the lazily loaded module:
+``` javascript
+{ path: 'recipes', loadChildren: './recipes/recipes.module#RecipesModule', canLoad: [AuthGuard] }
+```
+In this example, the `AuthGuard` should [implement the CanLoad interface](https://angular.io/api/router/CanLoad).
+* [How Modules and Services Work Together](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656720?start=0) (good video to rewatch)
+* [Understanding the Core Module](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656724?start=0)
+* [Creating a Basic Core Module](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656728?start=0)
 * [Restructuring Services to use the Child Injector]()
 * [Using Ahead-of-Time Compilation]()
 * [How to use AoT Compilation with the CLI]()
