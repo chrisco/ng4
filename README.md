@@ -651,8 +651,12 @@ In this example, the `AuthGuard` should [implement the CanLoad interface](https:
 * [How Modules and Services Work Together](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656720?start=0) (good video to rewatch)
 * [Understanding the Core Module](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656724?start=0)
 * [Creating a Basic Core Module](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656728?start=0)
-* [Restructuring Services to use the Child Injector]()
+* [Restructuring Services to use the Child Injector](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656732?start=0)
 * [Using Ahead-of-Time Compilation]()
 * [How to use AoT Compilation with the CLI]()
 * [Preloading Lazy Loaded Routes]()
 * [Wrap Up]()
+
+## TODOs (besides general cleanup)
+
+* If user clicks New Recipe button when not logged in, do something (such as display message saying they must be signed in or redirect them to sign-in).
