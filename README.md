@@ -652,9 +652,9 @@ In this example, the `AuthGuard` should [implement the CanLoad interface](https:
 * [Understanding the Core Module](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656724?start=0)
 * [Creating a Basic Core Module](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656728?start=0)
 * [Restructuring Services to use the Child Injector](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656732?start=0)
-* [Using Ahead-of-Time Compilation]()
-* [How to use AoT Compilation with the CLI]()
-* [Preloading Lazy Loaded Routes]()
+* [Using Ahead-of-Time Compilation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656734?start=0)
+* [How to use AoT Compilation with the CLI](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656736?start=0) `$ ng build --prod --aot`
+* [Preloading Lazy Loaded Routes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656738?start=0)
 * [Wrap Up]()
 
 ## TODOs (besides general cleanup)
