@@ -655,7 +655,39 @@ In this example, the `AuthGuard` should [implement the CanLoad interface](https:
 * [Using Ahead-of-Time Compilation](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656734?start=0)
 * [How to use AoT Compilation with the CLI](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656736?start=0) `$ ng build --prod --aot`
 * [Preloading Lazy Loaded Routes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656738?start=0)
-* [Wrap Up]()
+* [Wrap Up](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656740?start=0)
+
+## 22: Deploying an Angular App
+
+* [Module Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656744?start=0)
+* [Deployment Preparations and Important Steps](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656748?start=0)
+* [Example: Deploying to AWS S3](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656752?start=0) '$ ng build --prod --aot'
+
+## 23: Angular Animations
+
+With the release of Angular 4, the general syntax of Angular Animations didn't change.
+
+However, the animation functions were moved into their own package and you now also need to add a special module to your `imports[]` array in the AppModule.
+
+Specifically, the following adjustments are required:
+
+* You probably need to install the new animations package (running the command never hurts): `$ npm install --save @angular/animations`
+* Add the `BrowserAnimationsModule` to your `imports[]` array in __AppModule__
+* This Module needs to be imported from @angular/platform-browser/animations'  => `import { BrowserAnimationsModule } from '@angular/platform-browser/animations'`  (in the __AppModule__!)
+* You then import `trigger`, `state`, `style` etc from `@angular/animations` instead of `@angular/core`
+
+* [Making Animations Work with Angular 4](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6709106?start=0)
+* [Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951120?start=0)
+* [Setting up the Starting Project](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951122?start=0)
+* [Animations Triggers and State]()
+* [Switching between States]()
+* [Transitions]()
+* [Advanced Transitions]()
+* [Transition Phases]()
+* [The "void" State]()
+* [Using Keyframes for Animations]()
+* [Grouping Transitions]()
+* [Using Animation Callbacks]()
 
 ## TODOs (besides general cleanup)
 
