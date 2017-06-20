@@ -679,7 +679,7 @@ Specifically, the following adjustments are required:
 * [Making Animations Work with Angular 4](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6709106?start=0)
 * [Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951120?start=0)
 * [Setting up the Starting Project](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951122?start=0)
-* [Animations Triggers and State]()
+* [Animations Triggers and State](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951128?start=0)
 * [Switching between States]()
 * [Transitions]()
 * [Advanced Transitions]()
