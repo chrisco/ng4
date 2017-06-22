@@ -682,7 +682,7 @@ Specifically, the following adjustments are required:
 * [Animations Triggers and State](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951128?start=0)
 * [Switching between States](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951130?start=0)
 * [Transitions](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951134?start=0)
-* [Advanced Transitions]()
+* [Advanced Transitions](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951140?start=0)
 * [Transition Phases]()
 * [The "void" State]()
 * [Using Keyframes for Animations]()
