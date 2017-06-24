@@ -19,13 +19,14 @@
   <hr>
   <div class="row">
     <div class="col-xs-12">
-      <input type="text" #input>
-      <button class="btn btn-primary" (click)="onAdd(input.value)">Add Item!</button>
+        <input type="text" required ngModel #input=ngModel>
+        <button class="btn btn-primary" (click)="onAdd(input.value)" [disabled]="!input.valid">Add Item!</button>
       <hr>
       <ul class="list-group">
         <li
           class="list-group-item"
           (click)="onDelete(item)"
+          [@list1]
           *ngFor="let item of list">
           {{ item }}
         </li>
