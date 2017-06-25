@@ -689,6 +689,20 @@ Specifically, the following adjustments are required:
 * [Grouping Transitions](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951160?start=0)
 * [Using Animation Callbacks](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951164?start=0)
 
+## 24: A Basic Introduction to Unit Testing in Angular Apps
+
+* [About this Section](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6018422?start=0)
+* [Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951176?start=0)
+* [Why Unit Tests?](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951178?start=0)
+* [Analyzing the Testing Setup (as created by the CLI)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951180?start=0)
+* [Running Tests (with the CLI)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951182?start=0) `$ ng test`
+* [Adding a Component and some fitting Tests]()
+* [Testing Dependencies: Components and Services]()
+* [Simulating Async Tasks]()
+* [Using "fakeAsync" and "tick"]()
+* [Isolated vs Non-Isolated Tests]()
+* [Further Resources & Where to Go Next]()
+
 ## TODOs (besides general cleanup)
 
 * If user clicks New Recipe button when not logged in, do something (such as display message saying they must be signed in or redirect them to sign-in).
