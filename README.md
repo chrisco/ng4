@@ -685,7 +685,7 @@ Specifically, the following adjustments are required:
 * [Advanced Transitions](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951140?start=0)
 * [Transition Phases](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951144?start=0)
 * [The "void" State](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951152?start=0)
-* [Using Keyframes for Animations]()
+* [Using Keyframes for Animations](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951156?start=0)
 * [Grouping Transitions]()
 * [Using Animation Callbacks]()
 
