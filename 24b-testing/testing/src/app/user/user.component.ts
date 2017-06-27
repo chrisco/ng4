@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
-import { UserService } from "./user.service";
-import { DataService } from "../shared/data.service";
+import { UserService } from './user.service';
+import { DataService } from '../shared/data.service';
 
 @Component({
   selector: 'app-user',

@@ -1,10 +1,10 @@
-import { Pipe } from "@angular/core";
+import { Pipe } from '@angular/core';
 
 @Pipe({
   name: 'reverse'
 })
 export class ReversePipe {
   transform(value: string) {
-    return value.split("").reverse().join("");
+    return value.split('').reverse().join('');
   }
 }

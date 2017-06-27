@@ -696,12 +696,17 @@ Specifically, the following adjustments are required:
 * [Why Unit Tests?](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951178?start=0)
 * [Analyzing the Testing Setup (as created by the CLI)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951180?start=0)
 * [Running Tests (with the CLI)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951182?start=0) `$ ng test`
-* [Adding a Component and some fitting Tests]()
-* [Testing Dependencies: Components and Services]()
-* [Simulating Async Tasks]()
-* [Using "fakeAsync" and "tick"]()
-* [Isolated vs Non-Isolated Tests]()
-* [Further Resources & Where to Go Next]()
+* [Adding a Component and some fitting Tests](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951184?start=0)
+* [Testing Dependencies: Components and Services](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951188?start=0)
+* [Simulating Async Tasks](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951192?start=0)
+* [Using "fakeAsync" and "tick"](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951194?start=0)
+* [Isolated vs Non-Isolated Tests](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951196?start=0)
+* [Further Resources & Where to Go Next](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5951200?start=0)    
+  * Official Docs: https://angular.io/docs/ts/latest/guide/testing.html
+  * Article: https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine
+  * More Information on how to run Tests with the CLI:
+    * Unit Tests: https://github.com/angular/angular-cli#running-unit-tests
+    * E2E Tests: https://github.com/angular/angular-cli#running-end-to-end-tests
 
 ## TODOs (besides general cleanup)
 
