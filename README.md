@@ -708,6 +708,14 @@ Specifically, the following adjustments are required:
     * Unit Tests: https://github.com/angular/angular-cli#running-unit-tests
     * E2E Tests: https://github.com/angular/angular-cli#running-end-to-end-tests
 
+## 25: Course Roundup
+
+* [Course Roundup](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5221400?start=0)
+
+## 26: About the Course Update & Angular 4
+
+* [What Changed with Angular 4?](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656764?start=0)
+
 ## TODOs (besides general cleanup)
 
 * If user clicks New Recipe button when not logged in, do something (such as display message saying they must be signed in or redirect them to sign-in).
