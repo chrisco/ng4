@@ -716,6 +716,21 @@ Specifically, the following adjustments are required:
 
 * [What Changed with Angular 4?](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656764?start=0)
 
+## 27: Custom Project & Workflow Setup
+
+* [Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931048?start=0)
+* [Initializing the Project]()
+* [Setting up the Basic Project Files]()
+* [Installing the Core Dependencies]()
+* [Filling the Project Files with Some Life]()
+* [index.html & Polyfills]()
+* [Installing Development Dependencies]()
+* [Setting up a Development Workflow]()
+* [Finishing & Using the Development Workflow]()
+* [Setting up a Production Workflow]()
+* [Adding Types & Fixing Bugs]()
+* [Finishing Touches]()
+
 ## TODOs (besides general cleanup)
 
 * If user clicks New Recipe button when not logged in, do something (such as display message saying they must be signed in or redirect them to sign-in).
