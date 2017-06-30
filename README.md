@@ -719,17 +719,17 @@ Specifically, the following adjustments are required:
 ## 27: Custom Project & Workflow Setup
 
 * [Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931048?start=0)
-* [Initializing the Project]()
-* [Setting up the Basic Project Files]()
-* [Installing the Core Dependencies]()
-* [Filling the Project Files with Some Life]()
-* [index.html & Polyfills]()
-* [Installing Development Dependencies]()
-* [Setting up a Development Workflow]()
-* [Finishing & Using the Development Workflow]()
-* [Setting up a Production Workflow]()
-* [Adding Types & Fixing Bugs]()
-* [Finishing Touches]()
+* [Initializing the Project](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931052?start=0)
+* [Setting up the Basic Project Files](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931058?start=0)
+* [Installing the Core Dependencies](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931062?start=0)
+* [Filling the Project Files with Some Life](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931066?start=0)
+* [index.html & Polyfills](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931074?start=0)
+* [Installing Development Dependencies](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931078?start=0)
+* [Setting up a Development Workflow](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931080?start=0)
+* [Finishing & Using the Development Workflow](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931102?start=0)
+* [Setting up a Production Workflow](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931104?start=0)
+* [Adding Types & Fixing Bugs](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931106?start=0)
+* [Finishing Touches](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931110?start=0)
 
 ## TODOs (besides general cleanup)
 
