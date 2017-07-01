@@ -731,6 +731,16 @@ Specifically, the following adjustments are required:
 * [Adding Types & Fixing Bugs](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931106?start=0)
 * [Finishing Touches](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6931110?start=0)
 
+## 28: Bonus: TypeScript Introduction (for Angular 2 Usage)
+
+* [Introduction](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/4688406?start=0)
+* [Using Types](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/4688410?start=0)
+* [Classes](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/4688428?start=0)
+* [Interfaces](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/4688444?start=0)
+* [Generics](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/4688452?start=0)
+* [Wrap up & Modules](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/4688460?start=0)
+* [Deep dive into TypeScript](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/4688480?start=0)
+
 ## TODOs (besides general cleanup)
 
 * If user clicks New Recipe button when not logged in, do something (such as display message saying they must be signed in or redirect them to sign-in).
